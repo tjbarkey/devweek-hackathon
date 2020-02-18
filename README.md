@@ -11,10 +11,10 @@ In 24 hours, we were able to mock up a prototype, code the UI, and create the Do
 Our team placed 2nd in our particular challenge!
 
 
-## Mission Statement:
+## Mission Statement
 We aim to provide a speedy way for government officials to report cases of natural disaster or potential epidemic through an easy document workflow and visualization/mapping of disaster hot spots and relief zones.
 
-## User Story:
+## User Story
 ex. 1000 flu cases in SF where the city needs medical help and food distribution, so they log on a SPA and select the documents that needs to be signed. This will update the map to show the radial location of affected region.
 
 
@@ -38,7 +38,7 @@ Tyler: UI Coding, Data Flow and State Management, Routing, HERE Map.
 
 ## My Lessons Learned
 
-Working collaboratively gave me a lot of perspective about my strengths and areas where I still have room to grow and learn.  I previously thought I had a good grasp on using GIT...I did certainly did not, but I have a better understanding now.  I have learned that I have a decent grasp on styling and using React to make componentized apps.  I feel more confident in my ability to code and keep up with more experienced coders. 
+Working collaboratively gave me a lot of perspective about my strengths and areas where I still have room to grow and learn.  I previously thought I had a good grasp on using GIT...I certainly did not, but I have a better understanding now.  I have learned that I have a decent grasp on styling and using React to make componentized apps.  I feel more confident in my ability to code and keep up with more experienced coders. 
 
 ### Our App
 
@@ -46,8 +46,8 @@ Working collaboratively gave me a lot of perspective about my strengths and area
 
 ### Our Prototype Mockups
 
-![prototype](./client/public/gallery%20(1).jpg)
+![prototype](./client/public/gallery%20(5).jpg)
 
 ![prototype](./client/public/gallery%20(4).jpg)
 
-![prototype](./client/public/gallery%20(5).jpg)
+![prototype](./client/public/gallery%20(1).jpg)
