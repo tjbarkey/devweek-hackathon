@@ -34,7 +34,7 @@ Indya: Wireframing, DocuSign Envelope, DocuSign OAUTH.
 
 Chi: Backend and App Setup, HERE Map, HERE Geocoding, GIT Guru.
 
-Tyler: UI Coding, Data Flow and State Management, Routing, HERE Map.
+Tyler: Wireframing, UI Coding, Data Flow and State Management, Routing, HERE Map.
 
 ## My Lessons Learned
 
